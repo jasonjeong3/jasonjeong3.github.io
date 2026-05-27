@@ -1,7 +1,7 @@
----
+﻿---
 title: "Deep-Learning-Based Gas Identification by Time-Variant Illumination of a Single Micro-LED-Embedded Gas Sensor"
 collection: publications
-category: manuscripts
+category: collaborations
 permalink: /publication/2023-01-01-gas-identification-light-sa
 date: 2023-01-01
 venue: 'Light: Science &amp; Applications'

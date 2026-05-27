@@ -1,7 +1,7 @@
----
+﻿---
 title: "Artificial Olfactory Neuron for an In-Sensor Neuromorphic Nose"
 collection: publications
-category: manuscripts
+category: collaborations
 permalink: /publication/2022-03-01-olfactory-neuron-advanced-science
 date: 2022-03-01
 venue: 'Advanced Science'

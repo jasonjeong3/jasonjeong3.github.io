@@ -1,7 +1,7 @@
----
+﻿---
 title: "High Accuracy Real-Time Multi-Gas Identification by a Batch-Uniform Gas Sensor Array and Deep Learning Algorithm"
 collection: publications
-category: manuscripts
+category: collaborations
 permalink: /publication/2022-01-01-multigas-acs-sensors
 date: 2022-01-01
 venue: 'ACS Sensors'

@@ -82,6 +82,8 @@ publication_category:
     title: 'Conference Papers'
   preprints:
     title: 'Preprints'
+  collaborations:
+    title: 'Sensors &amp; Neuromorphic Computing (Collaborations)'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

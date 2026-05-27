@@ -1,7 +1,7 @@
----
+﻿---
 title: "Neuromorphic Olfaction with Ultralow-Power Gas Sensors and Ovonic Threshold Switch"
 collection: publications
-category: manuscripts
+category: collaborations
 permalink: /publication/2025-02-01-neuromorphic-olfaction-science-advances
 date: 2025-02-01
 venue: 'Science Advances'
